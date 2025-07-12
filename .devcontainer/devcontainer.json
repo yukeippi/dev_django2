@@ -22,8 +22,6 @@
         "ms-python.vscode-pylance",
         "batisteo.vscode-django",
         "ms-azuretools.vscode-docker",
-        "mtxr.sqltools",
-        "mtxr.sqltools-driver-pg",
         "tamasfe.even-better-toml",
         "saoudrizwan.claude-dev" // Optional: Cline
       ],
